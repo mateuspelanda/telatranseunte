@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+remote_theme: tuur29/pages-themes-cayman
+title: Tela Transeunte (Repositório)
+description: Esta página tem como objetivo tornar disponível o código utilizado para o trabalho artístico Tela Transeunte.
+show_downloads: true
+darkmode: true
