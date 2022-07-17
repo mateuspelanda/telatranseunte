@@ -9,5 +9,5 @@ colors:
     gradient_left: "#A665DB"
     gradient_right: "#6AB6D2"
     header: "#fff"
-    link: "#1e6bb8" # this default to gradient_color
-    section_title: "#155799" # this default to gradient_color
+    link: "#A665DB" # this default to gradient_color
+    section_title: "#6AB6D2" # this default to gradient_color
