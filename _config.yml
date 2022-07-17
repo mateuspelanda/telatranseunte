@@ -8,6 +8,6 @@ logo_url: ./marcaHorizontalbranca.png
 colors:
     gradient_left: "#A665DB"
     gradient_right: "#6AB6D2"
-    header: "#fff"
-    link: "#A665DB" # this default to gradient_color
-    section_title: "#6AB6D2" # this default to gradient_color
+    header: "#A665DB"
+    link: "#A665DB"
+    section_title: "#6AB6D2"
