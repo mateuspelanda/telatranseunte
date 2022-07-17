@@ -1,5 +1,11 @@
 remote_theme: tuur29/pages-themes-cayman
 title: Tela Transeunte (Repositório)
 description: Esta página tem como objetivo tornar disponível o código utilizado para o trabalho artístico Tela Transeunte.
-show_downloads: true
-darkmode: true
+show_downloads: false
+darkmode: false
+colors:
+    gradient_left: "#A665DB"
+    gradient_right: "#6AB6D2"
+    header: "#fff"
+    link: "#1e6bb8" # this default to gradient_color
+    section_title: "#155799" # this default to gradient_color
